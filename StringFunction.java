@@ -1,7 +1,3 @@
-package ab;
-
-
-import java.lang.NegativeArraySizeException;
 public class StringFunction {
 
 	public static void main(String[] args) {
